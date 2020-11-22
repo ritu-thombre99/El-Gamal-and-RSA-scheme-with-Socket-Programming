@@ -9,4 +9,4 @@ File El-Gamal Crypto-scheme is for demonstrating how El-Gamal works.
 
 Prime number of 84 bits (25 digitss) is used.
 
-Download pyecm.py from https://github.com/martingkelly/pyecm
+Download pyecm.py from https://github.com/martingkelly/pyecm which was used for finding prime factors of large numbers in a very less time.
