@@ -14,5 +14,8 @@ File 'El-Gamal Crypto-scheme.ipynb' is for demonstrating how El-Gamal works.
 File 'RSA.ipynb' is for demonstrating how RSA works.
 
 Prime number of 84 bits (25 digits) is used.
+gmpy2 was used to perform modular operations on large numbers.
+
+To install gmpy2 - https://anaconda.org/conda-forge/gmpy2
 
 Download pyecm.py from https://github.com/martingkelly/pyecm which was used for finding prime factors of large numbers in a very less time.
