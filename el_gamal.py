@@ -67,7 +67,7 @@ def decrypt(cipher_text_blocks,secret_key,public_keys):
     return decypted_plain_text_blocks
 
 # taken in 'Hello World!!!' returns ['Hel','lo ','Wor','ld!','!!']
-def get_blocks(PT,block_size=12):
+def get_blocks(PT,block_size):
     blocks = []
     i = 0
     while i<len(PT):
